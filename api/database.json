@@ -1,0 +1,96 @@
+{
+  "legos": [
+    {
+      "creator": "Per Sun",
+      "color": "Black",
+      "shape": "Animal",
+      "creation": "Black Cow",
+      "id": 1
+    },
+    {
+      "creator": "Sam",
+      "color": "2",
+      "id": 2
+    },
+    {
+      "creator": "",
+      "color": "1",
+      "id": 3
+    },
+    {
+      "creator": "Sam",
+      "color": "3",
+      "id": 4
+    },
+    {
+      "creator": "Sam",
+      "color": "2",
+      "id": 5
+    },
+    {
+      "creator": "Bob",
+      "color": "3",
+      "id": 6
+    },
+    {
+      "creator": "",
+      "color": "1",
+      "id": 7
+    },
+    {
+      "creator": "",
+      "color": "1",
+      "id": 8
+    },
+    {
+      "creator": "Tom",
+      "color": "5",
+      "id": 9
+    },
+    {
+      "creator": "",
+      "color": "1",
+      "id": 10
+    },
+    {
+      "creator": "",
+      "color": 1,
+      "id": 11
+    },
+    {
+      "creator": "Sam",
+      "color": 6,
+      "id": 12
+    },
+    {
+      "creator": "Tommy",
+      "color": 3,
+      "id": 13
+    },
+    {
+      "creator": "Brian",
+      "color": 3,
+      "id": 14
+    },
+    {
+      "creator": "Tom",
+      "color": 3,
+      "id": 15
+    },
+    {
+      "creator": "Mark",
+      "color": 3,
+      "id": 16
+    },
+    {
+      "creator": "Scott",
+      "color": 3,
+      "id": 17
+    },
+    {
+      "creator": "BOB",
+      "color": 1,
+      "id": 18
+    }
+  ]
+}
